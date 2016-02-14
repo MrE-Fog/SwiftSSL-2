@@ -1,0 +1,5 @@
+module Crypto [system] {
+    header "ssl.h"
+    link "crypto"
+    export *
+}
