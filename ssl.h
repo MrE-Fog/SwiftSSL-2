@@ -3,3 +3,7 @@
 #include <openssl/err.h>
 #include <stdio.h>
 #include <string.h>
+#include <openssl/evp.h>
+#include <openssl/aes.h>
+#include <openssl/err.h>
+#include <openssl/rand.h>
