@@ -1,4 +1,4 @@
-module Crypto [system] {
+module SwiftSSL [system] {
     header "ssl.h"
     link "crypto"
     link "ssl"
