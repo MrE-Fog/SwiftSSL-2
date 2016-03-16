@@ -9,3 +9,4 @@
 #include <openssl/rand.h>
 #include <openssl/ssl.h>
 #include <openssl/crypto.h>
+#include <openssl/ec.h>
