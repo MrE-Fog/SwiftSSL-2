@@ -10,3 +10,4 @@
 #include <openssl/ssl.h>
 #include <openssl/crypto.h>
 #include <openssl/ec.h>
+#include <openssl/hmac.h>
